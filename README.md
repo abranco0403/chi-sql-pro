@@ -5,6 +5,8 @@ Advanced SQL project using real-world datasets from the City of Chicago. Demonst
 🔍 Showcasing mastery of **joins**, **views**, **stored procedures**, and **transactions** to extract insights from complex, multi-table data.  
 💼 Built to highlight job-ready SQL skills for data analyst roles.
 
+![Project Banner](banner_chicago.jpg)
+
 ---
 
 ## 🚀 About the Project
